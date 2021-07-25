@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  
+}
+header{
+    background: white;
+    color: green;
+    height: 400px;
+
+ 
+    padding: 0;
+}
+p{
+    text-align: center;
+     justify-content: center;
+}
